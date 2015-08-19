@@ -1,26 +1,16 @@
-# LmaDownloader
+# Live Music Archive Downloader
 
-TODO: Write a gem description
+Note: This is a WIP
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'lma_downloader'
+## Requirements
+* https://rubygems.org/pages/download
+* ``` shell 
+gem install nokogiri
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install lma_downloader
 
 ## Usage
 
-TODO: Write usage instructions here
+```$ ruby lma_downloader.rb [lma url] [download directory]```
 
 ## Contributing
 
