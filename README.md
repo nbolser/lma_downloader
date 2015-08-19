@@ -4,9 +4,7 @@ Note: This is a WIP
 
 ## Requirements
 * https://rubygems.org/pages/download
-* ``` shell 
-gem install nokogiri
-```
+* gem install nokogiri
 
 ## Usage
 
